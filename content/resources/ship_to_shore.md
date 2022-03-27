@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 30a35eb1-2f7a-b29d-3026-2fb0cc33640b
 resourcetype: Document
 title: ship_to_shore.pdf
 uid: 92249d9a-cca9-7bf0-fd5d-94038d16f77d

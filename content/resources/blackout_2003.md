@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 30a35eb1-2f7a-b29d-3026-2fb0cc33640b
 resourcetype: Document
 title: blackout_2003.pdf
 uid: 5a751209-55cf-e891-95ab-495247368229

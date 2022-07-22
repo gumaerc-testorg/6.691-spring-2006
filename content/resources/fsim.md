@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Supporting MATLAB? file.
-file: /media/courses/6-691-seminar-in-electric-power-systems-spring-2006/2eb269b5af80d5e1f84b8d343503a47c_fsim.m
+file: /courses/6-691-seminar-in-electric-power-systems-spring-2006/2eb269b5af80d5e1f84b8d343503a47c_fsim.m
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Other
 title: fsim.m
 uid: 2eb269b5-af80-d5e1-f84b-8d343503a47c
 ---
+Supporting MATLAB? file.

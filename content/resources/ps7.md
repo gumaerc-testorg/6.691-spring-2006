@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problems based on unbalanced line.
 file: /courses/6-691-seminar-in-electric-power-systems-spring-2006/7efe787dcc5eb8a15f1bfb346f8d0073_ps7.pdf
+file_size: 45263
 file_type: application/pdf
 learning_resource_types:
 - Assignments

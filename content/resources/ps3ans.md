@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions to the problem set 3.
 file: /courses/6-691-seminar-in-electric-power-systems-spring-2006/594e8f55d04f5bbb411eb27f7ec2d5db_ps3ans.pdf
+file_size: 139179
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes information on U.S. navy humanitarian relief.
 file: /courses/6-691-seminar-in-electric-power-systems-spring-2006/92249d9acca97bf0fd5d94038d16f77d_ship_to_shore.pdf
+file_size: 55507
 file_type: application/pdf
 learning_resource_types:
 - Projects

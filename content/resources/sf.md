@@ -3,6 +3,7 @@ content_type: resource
 description: This resource is a supporting file used as a function script that generates
   the derivatives of the state variables.
 file: /courses/6-691-seminar-in-electric-power-systems-spring-2006/e04cc2bb3b05e41ecdbb0d14833c7fb6_sf.m
+file_size: 848
 file_type: text/plain
 learning_resource_types:
 - Tools

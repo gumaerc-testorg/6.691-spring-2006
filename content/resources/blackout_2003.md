@@ -4,6 +4,7 @@ description: This resource includes information on evaluating causes and factors
   the blackout, pre-cascade events & contingency violations, and cascade stage of
   the blackout.
 file: /courses/6-691-seminar-in-electric-power-systems-spring-2006/5a75120955cfe89195ab495247368229_blackout_2003.pdf
+file_size: 1034437
 file_type: application/pdf
 learning_resource_types:
 - Projects

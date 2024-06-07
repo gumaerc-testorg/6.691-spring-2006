@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource discusses the plan and directions of a small power system.
 file: /courses/6-691-seminar-in-electric-power-systems-spring-2006/247b4e49620cf47de60b10c392c53ee0_plan_a.pdf
+file_size: 57094
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

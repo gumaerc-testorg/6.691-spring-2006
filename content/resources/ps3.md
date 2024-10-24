@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems based on load flow, voltage and equivalent
   impedance.
-file: /courses/6-691-seminar-in-electric-power-systems-spring-2006/d772508e85e7dcc7c997977c5681a3b9_ps3.pdf
+file: /ol-ocw-studio-app/courses/6-691-seminar-in-electric-power-systems-spring-2006/d772508e85e7dcc7c997977c5681a3b9_ps3.pdf
 file_size: 45900
 file_type: application/pdf
 learning_resource_types:

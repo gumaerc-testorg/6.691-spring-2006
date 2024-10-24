@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems based on terminal fault, transient stability,
   bad mistake, and small signal variations.
-file: /courses/6-691-seminar-in-electric-power-systems-spring-2006/c3cf795e4208fd0f132002df36922a3d_ps5.pdf
+file: /ol-ocw-studio-app/courses/6-691-seminar-in-electric-power-systems-spring-2006/c3cf795e4208fd0f132002df36922a3d_ps5.pdf
 file_size: 37942
 file_type: application/pdf
 learning_resource_types:

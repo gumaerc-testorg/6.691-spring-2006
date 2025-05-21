@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains issues of cost associated with the small example
   power system.
-file: /ol-ocw-studio-app/courses/6-691-seminar-in-electric-power-systems-spring-2006/96b4ef219daeeeae2c0b01e84c0872f5_ps6.pdf
+file: /courses/6-691-seminar-in-electric-power-systems-spring-2006/96b4ef219daeeeae2c0b01e84c0872f5_ps6.pdf
 file_size: 37075
 file_type: application/pdf
 learning_resource_types:

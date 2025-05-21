@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting MATLAB? file.
-file: /ol-ocw-studio-app/courses/6-691-seminar-in-electric-power-systems-spring-2006/2eb269b5af80d5e1f84b8d343503a47c_fsim.m
+file: /courses/6-691-seminar-in-electric-power-systems-spring-2006/2eb269b5af80d5e1f84b8d343503a47c_fsim.m
 file_size: 3260
 file_type: text/plain
 learning_resource_types:

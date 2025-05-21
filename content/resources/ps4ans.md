@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resouce contains solutions to the problem set 4.
-file: /ol-ocw-studio-app/courses/6-691-seminar-in-electric-power-systems-spring-2006/6ebe327dc8b2aea023b464396902ec20_ps4ans.pdf
+file: /courses/6-691-seminar-in-electric-power-systems-spring-2006/6ebe327dc8b2aea023b464396902ec20_ps4ans.pdf
 file_size: 74050
 file_type: application/pdf
 learning_resource_types:

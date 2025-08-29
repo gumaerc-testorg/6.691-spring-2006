@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a reading assignment for the course.
-file: /courses/6-691-seminar-in-electric-power-systems-spring-2006/0150dc12a4043270b1f1dfabc2869a51_ps1.pdf
+file: /ol-ocw-studio-app/courses/6-691-seminar-in-electric-power-systems-spring-2006/0150dc12a4043270b1f1dfabc2869a51_ps1.pdf
 file_size: 25403
 file_type: application/pdf
 learning_resource_types:

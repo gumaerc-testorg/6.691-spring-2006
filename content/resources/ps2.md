@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the example power system and 2 problems, which
   were presented in the class.
-file: /courses/6-691-seminar-in-electric-power-systems-spring-2006/88740707e4d2dc728c14adf173bb9d33_ps2.pdf
+file: /ol-ocw-studio-app/courses/6-691-seminar-in-electric-power-systems-spring-2006/88740707e4d2dc728c14adf173bb9d33_ps2.pdf
 file_size: 36828
 file_type: application/pdf
 learning_resource_types:
